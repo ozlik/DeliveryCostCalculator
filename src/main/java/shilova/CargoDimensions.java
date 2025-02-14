@@ -1,6 +1,6 @@
 package shilova;
 
-public enum СargoDimensions {
+public enum CargoDimensions {
     BIG,
     SMALL
 }
